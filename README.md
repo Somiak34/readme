@@ -22,7 +22,7 @@ While cats often purr when they’re content, they can also purr when they're in
 ### Whiskers: 
 A cat's whiskers are highly sensitive and help them gauge their surroundings, particularly in the dark. They can detect changes in their environment and measure the width of openings.
 
-<img src="./image/cat.jpeg" width="700">
+<img src="./image/cat.jpeg" width="750" height="500">
 
 ## Food 
 Feeding your cat properly is essential for their health and well-being. Here’s a guide to help you choose the right food:
